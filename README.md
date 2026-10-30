@@ -64,15 +64,15 @@ Partners bring the visitor and keep booking and payment; Missori plans the day a
 
 ## Who pays
 
-People get Missori through the businesses that serve them, and people without a partner can subscribe. Prices are proposals to test in the pilot, VAT excluded.
+People get Missori through the businesses that serve them, and people without a partner can subscribe. Prices are proposals that the pilot will test. The full price list is shared with programmes and investors.
 
-| Plan | Who pays | Proposed price |
+| Plan | Who pays | How it is paid |
 | --- | --- | --- |
 | Missori: belonging and time (the day planner, checked chat and guides) | A partner or city, for the people they serve | Free to the person |
-| Missori Platinum: plus a bit of exclusivity, perks from local partners, kept by going out twice a month | People directly, or businesses under their own name | ₩3,900 a month |
-| Shop Plus: a customer list, come-back messages and reports | Small shops | ₩9,900 a month |
-| Business edition | Agencies, small hotel chains, Airbnb hosts and clubs; then platforms and hotel groups | ₩3M setup plus ₩500 per active user a month |
-| Region edition, with visit reports | Cities, districts, tourism bodies, festivals | ₩10M setup plus ₩500 per active user a month |
+| Missori Platinum: plus a bit of exclusivity, perks from local partners, kept by going out twice a month | People directly, or businesses under their own name | Monthly membership |
+| Shop Plus: a customer list, come-back messages and reports | Small shops | Monthly subscription |
+| Business edition | Agencies, small hotel chains, Airbnb hosts and clubs; then platforms and hotel groups | Setup fee plus a monthly fee per active user |
+| Region edition, with visit reports | Cities, districts, tourism bodies, festivals | Setup fee plus a monthly fee per active user |
 
 Levels are earned by good days, never bought: Guest, Regular (단골), Local and Host.
 
@@ -98,6 +98,10 @@ These are targets, not results.
 Ingrid Leiria is Missori's founder: an economist with more than nine years of professional experience, four of them as Chief of Staff, a master's in economics and three economics prizes for her bachelor's and master's research. She was selected for the K-Landing Challenge 2026 (Sungkyunkwan University and WorkOn). Two hires are planned with the seed round: a Korean business lead and a product and AI engineer, with native reviewers for each language.
 
 Missori is raising a $250K seed round (about ₩331M) for 12 months. For pilots, partnerships or investment, write to [ingrid@leiriaconsulting.com](mailto:ingrid@leiriaconsulting.com).
+
+## More on request
+
+This page is the public overview of Missori. The pitch deck, the film and the business plan are shared with the programmes Missori applies to and with investors. The source code stays private. A technical brief and a walkthrough of the product and its code are available on request at [ingrid@leiriaconsulting.com](mailto:ingrid@leiriaconsulting.com).
 
 ## Explore
 
